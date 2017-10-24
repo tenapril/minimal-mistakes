@@ -3,7 +3,9 @@ title: "My Embedded Project"
 date: 2014-12-31 00:30:00
 excerpt: "AS/RS Warehouse System Prototype"
 tags: 
-  - embedded system, embedded, computer engineering
+  - embedded system
+  - embedded
+  - computer engineering
 header:
   video:
     id: rRDAWh_onQE
