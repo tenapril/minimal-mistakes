@@ -32,6 +32,6 @@ What me and my friend use here is :
      
  If you have any question as of how to make this, feel free to contact me :)
 {: .notice}
- 
+
  
  
