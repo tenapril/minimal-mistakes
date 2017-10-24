@@ -1,6 +1,5 @@
 ---
 title: "My Embedded Project"
-comments: true
 date: 2017-10-24 00:30:00
 excerpt: "AS/RS Warehouse System Prototype"
 tags: 
