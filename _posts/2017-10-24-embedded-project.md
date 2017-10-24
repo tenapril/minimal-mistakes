@@ -23,6 +23,9 @@ What me and my friend use here is :
  - PVC Pipe
  - Android to control the AS/RS
  
+ **Source Code** is available on my github: [here](https://github.com/tenapril/Automated-Warehouse-Arduino)
+{: .notice}
+ 
  The source code is on my github : <a href="https://github.com/tenapril/Automated-Warehouse-Arduino">Here</a>
  
  If you have any question as of how to make this, feel free to contact me :)
