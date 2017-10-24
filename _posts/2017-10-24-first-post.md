@@ -6,4 +6,5 @@ tags:
 ---
 
 Hello there!
-This is my first post using Jekyll :D
+This is my first post in my blog.
+Hopefully i can share a lot to you guys later on.
