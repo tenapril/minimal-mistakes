@@ -13,6 +13,10 @@ header:
 ---
 This is one of my project for Embedded System Course in my Uni.
 
+Background: The rise of logistics business all around the world is growing as the demand increase from startup that use the logistics. As an example in Indonesia, the rise of C2C marketplace force logistics company to expand their warehouse exponentially (both horizontally and vertically). Because of this, the risk of work injury because of forklift or reach truck will increase. So we designed a system for Automatic Store and Retrieval System.
+
+The objective is to reduce this and to increase the performance of the logistic business.
+
 What me and my friend use here is :
 
  - Arduino UNO R3
