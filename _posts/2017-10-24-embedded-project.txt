@@ -1,0 +1,11 @@
+---
+title: "My Embedded Project"
+excerpt: "AS/RS Warehouse System Prototype"
+tags: 
+  - embedded system, embedded, computer engineering
+header:
+  video:
+    id: rRDAWh_onQE
+    provider: youtube
+---
+My Embedded Project
