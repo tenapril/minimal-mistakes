@@ -31,6 +31,12 @@
   </style>
 <![endif]-->
 
+{% if page.header.image %}
+    <meta property="og:image" content="{{ site.url }}/{{ page.header.image }}" />
+{% endif %}
+
+<meta property="og:description" content="{{ page.subtitle }}" />
+
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}
     {% if script contains "://" %}
