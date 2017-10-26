@@ -10,7 +10,7 @@ tags:
 
 As many of you know that the internet is now literally everywhere. And the trend to search everything on internet is very high. **But** the thing that many of us don't know about is how to search efficiently and effectively in the internet via the search engine (google, bing, etc.).
 
-+ Broad Match
+### Broad Match
 **Broad Match** is what we usually do, just type what we need and the search engine give us what we need (this is what some of us thought). But what **Broad Match** actually give us is a result based on what you search **and misspellings, synonyms, related search, not actually in the phrase order.**
 This is what we called _dirty_ result.
 **Broad Match** is only good if you want to get the context of what's happening around the topic. It's not really specific.
@@ -35,7 +35,7 @@ In the search bar we write: **table -old**
 Here we will get the result of any table which doesn't contain any old in its site.
 Another examples: **Baseball Cap -women**, **Uniqlo Shirt -men**
 
-* Phrase Match
+### Phrase Match
 **Phrase Match** is one of my favorite. Because the result will only show what we really need in the first place(based on the phrase). Say we know need to search another old table, but this time we only want only table which has old written on it. Exactly **old table**, not **table old**, or any site which has **table** and **old**, but the context of **old** and **table** got seperated.
 If we search **"old table"**, remember to use the **"whatyouwanttosearch"**. The result will only display **old table** with the _old_ before the _table_.
 Try it yourself!
