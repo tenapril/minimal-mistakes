@@ -35,6 +35,7 @@ Now we want to search A, but we don't want it to have connection with B.
 We want to search any table but the one which is not old.
 In the search bar we write: **table -old**
 Here we will get the result of any table which doesn't contain any old in its site.
+
 Another examples: **Baseball Cap -women**, **Uniqlo Shirt -men**
 
 ## Phrase Match
