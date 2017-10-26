@@ -6,7 +6,7 @@ tags:
   - Tips
   - Internet
   - Searching
-
+featured-img: /assets/images/searchbar.png
 header:
   image: /assets/images/searchbar.png
   caption: Search Bar
