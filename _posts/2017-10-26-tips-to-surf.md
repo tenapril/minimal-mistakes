@@ -11,7 +11,7 @@ header:
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 
-![Search Bar](/assets/image/searchbar.png){:class="img-responsive" .center-image}
+![Search Bar](/assets/images/searchbar.png){:class="img-responsive" .center-image}
 
 As many of you know that the internet is now literally everywhere. And the trend to search everything on internet is very high. **But** the thing that many of us don't know about is how to search efficiently and effectively in the internet via the search engine (google, bing, etc.).
 
