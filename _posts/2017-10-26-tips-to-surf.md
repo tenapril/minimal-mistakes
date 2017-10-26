@@ -23,12 +23,12 @@ What we actually get is any table which has old written on its metadata(web)
 Any old which has table written on its metadata.
 To put it simply, any sites that has old and table written on it will be displayed to you by the search engine.
 And here is examples of what we can use from _boolean operators_, we can use **AND** and **NOT**.
-  - AND - Lets say, with the sample above, we want to search **old table**.
+  - **AND** - Lets say, with the sample above, we want to search **old table**.
 We can also search with the keyword **+old+table** in the search bar. This will also display any sites which has old and table on it.
 We can also use it to add any elements that we want to search.
 
 Another examples: **restaurant +pork**, **english +book**
-  - NOT -Now we want to search A, but we don't want it to have connection with B.
+  - **NOT** - Now we want to search A, but we don't want it to have connection with B.
 We want to search any table but the one which is not old.
 In the search bar we write: **table -old**
 Here we will get the result of any table which doesn't contain any old in its site.
