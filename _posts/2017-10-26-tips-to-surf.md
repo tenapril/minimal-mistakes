@@ -37,9 +37,9 @@ Another examples: **Baseball Cap -women**, **Uniqlo Shirt -men**
 
 + Phrase Match
 **Phrase Match** is one of my favorite. Because the result will only show what we really need in the first place(based on the phrase). Say we know need to search another old table, but this time we only want only table which has old written on it. Exactly **old table**, not **table old**, or any site which has **table** and **old**, but the context of **old** and **table** got seperated.
-If we search **"old table"**, remember to use the **"..."**. The result will only display **old table** with the _old_ before the _table_.
+If we search **"old table"**, remember to use the **"whatyouwanttosearch"**. The result will only display **old table** with the _old_ before the _table_.
 Try it yourself!
-Another examples: **"best keyboard 2017"**, **novel illustrations**
+Another examples: **"best keyboard 2017"**, **"novel illustrations"**
 
 There is still a lot of way to make your searching more efficient and effective. But hopefully this can help your "almost never on the context search". Feel free to ask me if you have any question.
 {: .notice--info}
