@@ -6,13 +6,10 @@ tags:
   - Tips
   - Internet
   - Searching
-<<<<<<< HEAD
-header-img: /assets/images/searchbar.png
-=======
+
 header:
-  overlay_image: /assets/images/header.jpg
-  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
->>>>>>> parent of 7249a41... 2610-header
+  image: /assets/images/searchbar.png
+  caption: Search Bar
 ---
 
 ![Search Bar](/assets/images/searchbar.png){:class="img-responsive" .center-image}
