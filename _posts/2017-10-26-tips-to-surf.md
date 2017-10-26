@@ -6,8 +6,16 @@ tags:
   - Tips
   - Internet
   - Searching
+<<<<<<< HEAD
 header-img: /assets/images/searchbar.png
+=======
+header:
+  overlay_image: /assets/images/header.jpg
+  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+>>>>>>> parent of 7249a41... 2610-header
 ---
+
+![Search Bar](/assets/images/searchbar.png){:class="img-responsive" .center-image}
 
 As many of you know that the internet is now literally everywhere. And the trend to search everything on internet is very high. **But** the thing that many of us don't know about is how to search efficiently and effectively in the internet via the search engine (google, bing, etc.).
 
