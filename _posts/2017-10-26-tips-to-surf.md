@@ -23,19 +23,19 @@ What we actually get is any table which has old written on its metadata(web)
 Any old which has table written on its metadata.
 To put it simply, any sites that has old and table written on it will be displayed to you by the search engine.
 And here is examples of what we can use from _boolean operators_, we can use **AND** and **NOT**.
-    - AND
+  - AND
 Lets say, with the sample above, we want to search **old table**.
 We can also search with the keyword **+old+table** in the search bar. This will also display any sites which has old and table on it.
 We can also use it to add any elements that we want to search.
 Another examples: **restaurant +pork**, **english +book**
-    - NOT
+  - NOT
 Now we want to search A, but we don't want it to have connection with B.
 We want to search any table but the one which is not old.
 In the search bar we write: **table -old**
 Here we will get the result of any table which doesn't contain any old in its site.
 Another examples: **Baseball Cap -women**, **Uniqlo Shirt -men**
 
-+ Phrase Match
+* Phrase Match
 **Phrase Match** is one of my favorite. Because the result will only show what we really need in the first place(based on the phrase). Say we know need to search another old table, but this time we only want only table which has old written on it. Exactly **old table**, not **table old**, or any site which has **table** and **old**, but the context of **old** and **table** got seperated.
 If we search **"old table"**, remember to use the **"whatyouwanttosearch"**. The result will only display **old table** with the _old_ before the _table_.
 Try it yourself!
