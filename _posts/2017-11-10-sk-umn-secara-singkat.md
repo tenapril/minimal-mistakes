@@ -12,7 +12,7 @@ header:
     id: Y4E7thtlhow
     provider: youtube
 ---
-Dalam artikel ini, saya akan coba menjelaskan Sistem Komputer UMN dalam maksimal 5 menit waktu baca.
+Dalam artikel ini, saya akan coba menjelaskan Sistem Komputer UMN dalam maksimal 10 menit waktu baca.
 
 _First thing first_, **Sistem Komputer UMN** adalah program studi yang lahir dari kebutuhan pejuang IoT di Indonesia. Dengan harapan
 semakin banyak mahasiswa yang mau menjadi para **pejuang IoT**. Sistem Komputer UMN menerapkan sistem pembelajaran Teori dan Praktek yang imbang.
@@ -62,13 +62,26 @@ Semester ini juga menjadi penentuan apakah anda sudah dewasa menjadi mahasiswa S
 kegagalan tidak dapat ditolelir. _Tapi percayalah bahwa banyak orang sukses melewati semester ini dengan perjuangannya masing-masing._
 Di semester ini anda belajar Assembly, Fourier Transform (sinyal), Sensor, dan Layer Networking.
 ## Semester 5
-5
+Semester ini sama seperti semester 4, banyak sekali pelajaran **core** yang didapat.
+Pelajaran yang paling menarik sekaligus susah adalah **Perancangan Sistem Digital dan Pengolahan Sinyal Digital.**
+Semester ini juga ada pelajaran yang menurut kami yang sudah menjalaninya sangat berguna, yaitu **Sistem Administrasi.**
+Mempelajari Windows Server dan Linux Server dari 0 sampai paham betul mekanisme di dalamnya.
 ## Semester 6
-6
+Di semester 6 ini saya merasakan kuliah yang paling santai selama 6 semester berkuliah. Alasannya adalah karena saya sudah mengambil semua mata kuliah
+yang ada di semester 6 di semester sebelumnya. Tapi ada 1 pelajaran yang menurut saya penting, **Sistem Embedded.** Sistem Embedded mengharuskan kita
+membuat project dengan mikroprosesor yang sudah dipelajari di semester 5 dan menerapkannya di sini. Banyak sekali ide yang tercipta dengan adanya pelajaran ini.
+Menjadi sebuah semester yang sangat menarik jika anda menyukai projek dan tantangan.
 ## Semester 7
-7
+Semester ini banyak menjadi penentuan terakhir bagi semua mahasiswa SK, yaitu pelajaran **Sistem Terdistribusi dan Sistem Pervasif.**
+Sistem Pervasif mengharuskan kita membuat sebuah project berbasis IoT yang dapat saling berkomunikasi dan berguna. Di sini kita dapat
+mempelajari protokol MQTT, websocket, dan bluetooth. Sistem Terdistribusi lebih mengarah ke bagaimana sistem dapat berbicara satu sama lain
+walaupun dengan bahasa yang berbeda.
+Kesimpulan yang dapat diambil dari semester ini adalah, semester ini adalah semester dimana kita menerapkan semua ilmu kita dari semester 1 hingga 6.
 ## Semester 8
-8
+Semester ini seharusnya ada pelajaran Technopreneur dan Skripsi. Tapi biasanya Technopreneur diambil di semester sebelumnya.
+Jadi Semester ini biasanya difokuskan untuk Skripsi. _Skripsi dan Revisi :)_
+
+That's all of the information that i can tell you. May we meet at another chance. :)
 
 
  If you have any question as of how awesome is it, feel free to contact me :)
