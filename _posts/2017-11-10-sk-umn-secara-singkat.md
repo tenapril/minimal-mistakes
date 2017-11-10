@@ -61,11 +61,18 @@ Di semseter ini saya mengambil **Riset Operasi** dari semester 5 dengan tujuan m
 Semester ini juga menjadi penentuan apakah anda sudah dewasa menjadi mahasiswa SK. Dengan banyaknya pelajaran core di semester ini,
 kegagalan tidak dapat ditolelir. _Tapi percayalah bahwa banyak orang sukses melewati semester ini dengan perjuangannya masing-masing._
 Di semester ini anda belajar Assembly, Fourier Transform (sinyal), Sensor, dan Layer Networking.
+
+<figure>
+	<a href="/assets/images/lab_sk.jpg"><img src="/assets/images/lab_sk.jpg"></a>
+	<figcaption><a href="/assets/images/lab_sk.jpg" title="Lab Sistem Embedded dan Pervasif">Lab Sistem Embedded dan Pervasif</a>.</figcaption>
+</figure>
+
 ## Semester 5
 Semester ini sama seperti semester 4, banyak sekali pelajaran **core** yang didapat.
 Pelajaran yang paling menarik sekaligus susah adalah **Perancangan Sistem Digital dan Pengolahan Sinyal Digital.**
 Semester ini juga ada pelajaran yang menurut kami yang sudah menjalaninya sangat berguna, yaitu **Sistem Administrasi.**
 Mempelajari Windows Server dan Linux Server dari 0 sampai paham betul mekanisme di dalamnya.
+Di semester ini juga ada penjurusan Oracle, Cisco, SAP, dll.
 ## Semester 6
 Di semester 6 ini saya merasakan kuliah yang paling santai selama 6 semester berkuliah. Alasannya adalah karena saya sudah mengambil semua mata kuliah
 yang ada di semester 6 di semester sebelumnya. Tapi ada 1 pelajaran yang menurut saya penting, **Sistem Embedded.** Sistem Embedded mengharuskan kita
