@@ -12,21 +12,24 @@ header:
     id: Y4E7thtlhow
     provider: youtube
 ---
-This is one of my project for Embedded System Course in my Uni.
+Dalam artikel ini, saya akan coba menjelaskan Sistem Komputer UMN dalam maksimal 5 menit waktu baca.
 
-Background: The rise of logistics business all around the world is growing as the demand increase from startup that use the logistics. As an example in Indonesia, the rise of C2C marketplace force logistics company to expand their warehouse exponentially (both horizontally and vertically). Because of this, the risk of work injury because of forklift or reach truck will increase. So we designed a system for Automatic Store and Retrieval System.
-
-The objective is to reduce this and to increase the performance of the logistic business.
-
-What me and my friend use here is :
-
- - Arduino UNO R3
- - Bluetooth HC-05
- - 2 Motors for X and Y Servo
- - 1 Used DVD motor and chasis for Z movement
- - Adaptor
- - PVC Pipe
- - Android to control the AS/RS
+## Semester 1
+1
+## Semester 2
+2
+## Semester 3
+3
+## Semester 4
+4
+## Semester 5
+5
+## Semester 6
+6
+## Semester 7
+7
+## Semester 8
+8
 
  **Source Code** is available on my github: [here](https://github.com/tenapril/Automated-Warehouse-Arduino)
 
