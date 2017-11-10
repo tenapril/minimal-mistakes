@@ -1,5 +1,5 @@
 ---
-title: "SK UMN Secara Singkat"
+title: "Sistem Komputer Universitas Multimedia Nusantara Secara Singkat"
 date: 2017-11-10 00:30:00
 excerpt: "Sistem Komputer UMN"
 tags:
