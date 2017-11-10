@@ -1,14 +1,14 @@
 ---
-title: "My Embedded Project"
-date: 2017-10-24 00:30:00
+title: "SK UMN Secara Singkat"
+date: 2017-11-10 00:30:00
 excerpt: "AS/RS Warehouse System Prototype"
 tags:
-  - embedded system
-  - embedded
-  - computer engineering
+  - Sistem Komputer
+  - SK UMN
+  - Computer engineering
 header:
   video:
-    id: rRDAWh_onQE
+    id: Y4E7thtlhow
     provider: youtube
 ---
 This is one of my project for Embedded System Course in my Uni.
