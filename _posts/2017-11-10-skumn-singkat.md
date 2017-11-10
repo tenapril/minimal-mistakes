@@ -1,6 +1,6 @@
 ---
 title: "Sistem Komputer UMN Secara Singkat"
-date: 2017-11-7 17:00:00
+date: 2017-11-10 17:00:00
 excerpt: "SK UMN"
 tags:
   - Sistem Komputer UMN
