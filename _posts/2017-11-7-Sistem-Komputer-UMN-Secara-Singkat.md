@@ -1,15 +1,15 @@
 ---
-title: "NodeMCU Programming with Arduino IDE"
+title: "Sistem Komputer UMN Secara Singkat"
 date: 2017-11-7 17:00:00
-excerpt: "NodeMCU Programming"
+excerpt: "SK UMN"
 tags:
-  - ESP12
-  - NodeMCU
-  - Programming
-  - Arduino
-header:
-  image: /assets/images/searchbar.png
-  caption: NodeMCU
+  - Sistem Komputer UMN
+  - SK UMN
+  - UMN
+  header:
+    video:
+      id: Y4E7thtlhow
+      provider: youtube
 ---
 
 As many of you know that the internet is now literally everywhere. And the trend to search everything on internet is very high. **But** the thing that many of us don't know about is how to search efficiently and effectively in the internet via the search engine (google, bing, etc.).
