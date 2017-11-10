@@ -1,11 +1,12 @@
 ---
 title: "SK UMN Secara Singkat"
 date: 2017-11-10 00:30:00
-excerpt: "AS/RS Warehouse System Prototype"
+excerpt: "Sistem Komputer UMN"
 tags:
   - Sistem Komputer
   - SK UMN
-  - Computer engineering
+  - Computer Engineering
+  - Sistem Komputer UMN
 header:
   video:
     id: Y4E7thtlhow
