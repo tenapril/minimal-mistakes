@@ -64,7 +64,7 @@ Di semester ini anda belajar Assembly, Fourier Transform (sinyal), Sensor, dan L
 
 <figure>
 	<a href="/assets/images/lab_sk.jpg"><img src="/assets/images/lab_sk.jpg"></a>
-	<figcaption><a href="/assets/images/lab_sk.jpg" title="Lab Sistem Embedded dan Pervasif">Lab Sistem Embedded dan Pervasif</a>.</figcaption>
+	<figcaption><a href="/assets/images/lab_sk.jpg" title="Lab Sistem Embedded dan Pervasif">Lab Sistem Embedded dan Pervasif</a></figcaption>
 </figure>
 
 ## Semester 5
