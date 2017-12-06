@@ -8,7 +8,7 @@ tags:
   - RStudio
 header:
   image: /assets/images/searchbar.png
-  caption: Search Bar
+  caption: R For Noobs :P
 ---
 *todo* R For Noobs _todo_
 
