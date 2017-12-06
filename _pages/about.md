@@ -5,12 +5,13 @@ excerpt: "Who Am I?"
 header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 0.2
-tags: 
+tags:
   - about
 ---
 My Name is Andrew Tirto Kusumo.
 Currently on my last year on Uni.
 I am majoring in Computer Engineering and interested in Machine Learning.
-Have done some project on ML and forecasting.
+My Thesis is Speech Recognition using Convolutional Neural Network for Indonesian Geography Dictionary.
+Have done some project on Machine Learning and forecasting.
 
 Nice to meet you :D
