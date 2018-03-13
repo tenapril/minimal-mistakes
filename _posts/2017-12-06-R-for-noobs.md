@@ -27,6 +27,12 @@ Bukan link di https://cran.r-project.org/
 
 Lalu download R untuk Windows/Linux/Mac OS sesuai OS masing-masing komputer anda. Setelah itu download yang base dan klik download di page selanjutnya.
 
+![rfornoobs_2]({{ site.url }}{{ site.baseurl }}/assets/images/rfornoobs_2.jpg)
+![rfornoobs_3]({{ site.url }}{{ site.baseurl }}/assets/images/rfornoobs_3.jpg)
+
+Setelah download, langsung install dan klik next saja terus.
+
+
 
  If you have any question as of how awesome is it, feel free to contact me :)
 {: .notice}
