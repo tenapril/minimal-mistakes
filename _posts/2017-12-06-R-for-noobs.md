@@ -21,7 +21,11 @@ Tujuan akhirnya adalah untuk membuktikan bahwa R adalah program pengolah data st
 
 ## Mengenal R
 
+Bukan link di https://cran.r-project.org/
 
+![rfornoobs_1]({{ site.url }}{{ site.baseurl }}/assets/images/rfornoobs_1.jpg)
+
+Lalu download R untuk Windows/Linux/Mac OS sesuai OS masing-masing komputer anda. Setelah itu download yang base dan klik download di page selanjutnya.
 
 
  If you have any question as of how awesome is it, feel free to contact me :)
