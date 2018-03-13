@@ -7,7 +7,7 @@ tags:
   - Statistic
   - RStudio
 header:
-  image: /assets/images/searchbar.png
+  image: /assets/images/r_banner.png
   caption: R For Noobs :P
 ---
 *todo* R For Noobs _todo_
