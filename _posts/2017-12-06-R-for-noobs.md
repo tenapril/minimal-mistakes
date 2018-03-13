@@ -36,5 +36,9 @@ Download yang free seperti gambar di bawah.
 
 ![rfornoobs_4]({{ site.url }}{{ site.baseurl }}/assets/images/rfornoobs_4.jpg)
 
+Setelah itu install saja, lalu setelah install buka aplikasi RStudionya. Aplikasinya akan terlihat seperti ini.
+
+![rfornoobs_5]({{ site.url }}{{ site.baseurl }}/assets/images/rfornoobs_5.jpg)
+
  If you have any question as of how awesome is it, feel free to contact me :)
 {: .notice}
