@@ -40,5 +40,7 @@ Setelah itu install saja, lalu setelah install buka aplikasi RStudionya. Aplikas
 
 ![rfornoobs_5]({{ site.url }}{{ site.baseurl }}/assets/images/rfornoobs_5.jpg)
 
+Jika anda sudah mendapatkan tampilan seperti di atas, selamat R dan RStudio anda sudah berhasil diinstall.
+
  If you have any question as of how awesome is it, feel free to contact me :)
 {: .notice}
