@@ -10,10 +10,11 @@ header:
   image: /assets/images/r_banner.png
   caption: R For Noobs :P
 ---
-*todo* R For Noobs _todo_
+R For Noobs (in Bahasa Indonesia)
 
-
-That's all of the information that i can tell you. May we meet at another chance. :)
+Bahasa R adalah salah satu bahasa pemrograman yang digunakan untuk mengolah data secara statistik.
+Beberapa teman saya yang sedang melakukan tugas akhir selalu disuruh oleh dosennya menggunakan SPSS untuk mengolah data skripsi.
+Menurut opini saya, para dosen tersebut biasanya tidak mengenal R dan masih menggunakan SPSS.
 
 
  If you have any question as of how awesome is it, feel free to contact me :)
