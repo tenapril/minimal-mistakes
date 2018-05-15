@@ -10,7 +10,7 @@ header:
   image: /assets/images/r_banner.png
   caption: R For Noobs :P
 ---
-R For Noobs (in Bahasa Indonesia)
+Bahasa R untuk pemula - R For Noobs (in Bahasa Indonesia)
 
 Bahasa R adalah salah satu bahasa pemrograman yang digunakan untuk mengolah data secara statistik.
 Beberapa teman saya yang sedang melakukan tugas akhir selalu disuruh oleh dosennya menggunakan SPSS untuk mengolah data skripsi. Padahal **SPSS** itu harusnya bayar dan mahal kalau tidak disediakan oleh universitasnya.
