@@ -42,8 +42,7 @@ Setelah itu install saja, lalu setelah install buka aplikasi RStudionya. Aplikas
 
 Jika anda sudah mendapatkan tampilan seperti di atas, selamat R dan RStudio anda sudah berhasil diinstall.
 
-Saya pernah menulis buku tutorial bagaimana cara menggunakan R dari 0 atau pemula, bukunya dapat di download di  [sini](http://bukudata.com).
-Cukup masukkan email dan nanti buku nya akan dikirim melalui email.
+Saya pernah menulis buku tutorial bagaimana cara menggunakan R dari 0 atau pemula, bukunya dapat di download di  [sini]({{ site.url }}{{ site.baseurl }}/assets/files/EbookR.pdf).
 
 
  If you have any question as of how awesome is it, feel free to contact me :)
