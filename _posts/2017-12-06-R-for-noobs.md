@@ -10,7 +10,7 @@ header:
   image: /assets/images/r_banner.png
   caption: R For Noobs :P
 ---
-{% include head/custom.html %}
+{% include /head/custom.html %}
 Bahasa R untuk pemula - R For Noobs (in Bahasa Indonesia)
 
 Bahasa R adalah salah satu bahasa pemrograman yang digunakan untuk mengolah data secara statistik.
