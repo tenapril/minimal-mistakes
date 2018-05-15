@@ -21,7 +21,7 @@ Tujuan akhirnya adalah untuk membuktikan bahwa R adalah program pengolah data st
 
 ## Mengenal R
 
-Bukan link di `link: https://cran.r-project.org/`
+Bukan link di [sini](https://cran.r-project.org/)
 
 ![rfornoobs_1]({{ site.url }}{{ site.baseurl }}/assets/images/rfornoobs_1.jpg)
 
@@ -30,7 +30,7 @@ Lalu download R untuk Windows/Linux/Mac OS sesuai OS masing-masing komputer anda
 ![rfornoobs_2]({{ site.url }}{{ site.baseurl }}/assets/images/rfornoobs_2.jpg)
 ![rfornoobs_3]({{ site.url }}{{ site.baseurl }}/assets/images/rfornoobs_3.jpg)
 
-Setelah download, langsung install dan klik next saja terus. Setelah selesai mendownload R, kita akan menggunakan RStudio untuk mempermudah pengolahan data di R. Download di : `link: https://www.rstudio.com/products/rstudio/download/`
+Setelah download, langsung install dan klik next saja terus. Setelah selesai mendownload R, kita akan menggunakan RStudio untuk mempermudah pengolahan data di R. Download di : [sini](https://www.rstudio.com/products/rstudio/download/)
 
 Download yang free seperti gambar di bawah.
 
@@ -42,7 +42,7 @@ Setelah itu install saja, lalu setelah install buka aplikasi RStudionya. Aplikas
 
 Jika anda sudah mendapatkan tampilan seperti di atas, selamat R dan RStudio anda sudah berhasil diinstall.
 
-Untuk tutorial bagaimana cara menggunakan R, dapat didownload di `link: http://bukudata.com`.
+Untuk tutorial bagaimana cara menggunakan R, dapat didownload di [sini](http://bukudata.com).
 
  If you have any question as of how awesome is it, feel free to contact me :)
 {: .notice}
