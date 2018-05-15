@@ -42,5 +42,7 @@ Setelah itu install saja, lalu setelah install buka aplikasi RStudionya. Aplikas
 
 Jika anda sudah mendapatkan tampilan seperti di atas, selamat R dan RStudio anda sudah berhasil diinstall.
 
+Untuk tutorial bagaimana cara menggunakan R, dapat didownload di `link: http://bukudata.com`.
+
  If you have any question as of how awesome is it, feel free to contact me :)
 {: .notice}
