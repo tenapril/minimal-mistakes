@@ -1,5 +1,5 @@
 ---
-title: "R For Noobs and Friends"
+title: "Bahasa R untuk pemula"
 date: 2018-03-13 00:30:00
 excerpt: "R For Noobs"
 tags:
