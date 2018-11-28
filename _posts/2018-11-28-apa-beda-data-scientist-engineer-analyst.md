@@ -1,6 +1,6 @@
 ---
 title: "Apa beda Data Scientist, Data Engineer, dan Data Analyst?"
-date: 2018-11-28 10:00:00
+date: 2018-11-28 09:00:00
 excerpt: "Apa beda Data Scientist, Data Engineer, dan Data Analyst?"
 tags:
   - Data Scientist
