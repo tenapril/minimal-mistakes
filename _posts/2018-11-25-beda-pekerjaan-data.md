@@ -8,7 +8,7 @@ tags:
   - Data Analyst
 header:
   image: /assets/images/differences_data.png
-  caption: Apa bedanya hayo?, source: https://www.stoodnt.com/blog/data-engineer-vs-data-scientist/
+  caption: 
 ---
 
 
