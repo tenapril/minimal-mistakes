@@ -15,7 +15,7 @@ Banyak sekali pertanyaan yang timbul ketika mendengar ketiga pekerjaan ini. `Apa
 
 Mari kita analogikan ketiga pekerjaan ini sebagai pekerjaan di dalam sebuah restoran ternama yang mempunyai _Michelin Star_.
 
-### 1 _Data Engineer_
+### 1. _Data Engineer_
 
 Dalam sebuah restoran ternama ini, **Data Engineer** adalah orang-orang yang memilih, menyiapkan, dan mengolah bahan-bahan terbaik untuk diberikan kepada para Chef terhebat. Selain bahan-bahan terbaik, bahan ini harus fresh dan dapat diambil kapan saja oleh para Chef.
 
@@ -30,7 +30,7 @@ DE juga harus memikirkan bagaimana data yang mereka ambil adalah data yang balik
 Yang harus dikuasai oleh DE adalah `SQL`, `Databases` (RDBMS,NoSQL, Data Warehouse, Data Lake, etc), `ETL Tools` (Pentaho, Ab Initio, etc), `Pipeline` (Airflow, Kafka, Luigi, Azkaban, etc), dan tentunya basic pemrograman dan shell script.
 
 
-### 2 _Data Scientist_
+### 2. _Data Scientist_
 
 **Data Scientist** adalah Chef yang berinovasi, setelah menerima bahan dari DE langsung bekerja untuk membuat menu-menu terbaik untuk disajikan kepada para penikmat makanan yang sudah menunggu di luar. Tugas Chef ini adalah membuat inovasi dari setiap bahan yang sudah diterima, entah bahan itu direbus lalu dioven dan diasap. Semua ide konyol harus dilakukan oleh **Data Scientist** untuk menciptakan sebuah inovasi terbaru.
 
@@ -40,7 +40,7 @@ DS dalam analogi ini adalah Chef dengan semua alat dan ilmu pengetahuan yang dik
 
 Yang harus dikuasai oleh DS adalah `Statistika`, `Matematika`, `Algoritma` terkini, Bahasa pemrograman untuk membuat model (Inovasi Masakan Baru) yang biasa `Python atau R`, dan tools-tools lainnya untuk mengolah dan membuat model.
 
-### 3 _Data Analyst_
+### 3. _Data Analyst_
 
 **Data Analyst** adalah Business Chef restoran yang berhubungan langsung dengan orang yang akan menikmati makanan. Chef ini tahu betul menu-menu apa yang sering dipesan, menu-menu yang akhir-akhir ini jarang dipesan, dsb. Chef ini pintar dan tahu tips dan trik bisnis terbaik untuk meningkatkan penjualan dan memberikan ide kepada DS dan DE.
 
