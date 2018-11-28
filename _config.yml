@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "mint" # "air", "contrast", "dark", "dirt", "mint", "
 
 # Site Settings
 locale                   : "en"
-title                    : "Machine Learning Geek"
+title                    : "Data Plumber & Machine Learning Geek"
 title_separator          : "-"
 name                     : "Andrew Tirto Kusumo"
 description              : "Andrew Tirto Kusumo - Personal Blog"
@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Andrew Tirto Kusumo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning Geek"
+  bio              : "Usually Data Plumber, Sometimes Wrangler"
   location         : "Indonesia"
   email            : "andrewtirtokusumo@gmail.com"
   uri              :
