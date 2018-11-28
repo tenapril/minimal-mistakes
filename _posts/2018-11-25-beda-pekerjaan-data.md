@@ -11,11 +11,13 @@ Dalam bacaan kali ini, saya akan membahas bagaimana perbedaan dari 3 pekerjaan *
 
 Banyak sekali pertanyaan yang timbul ketika mendengar ketiga pekerjaan ini. `Apa bedanya, apa kesamaannya? Kok menurut saya sama.` Ya, ketiga pekerjaan ini memang pada dasarnya sama karena semua memiliki kata `Data` di depan nama pekerjaan-nya. Tetapi secara pekerjaan mereka sehari-hari, perbedaan pekerjaan mereka cukup signifikan.
 
-##1 _Data Scientist_
+![differencesdata_1]({{ site.url }}{{ site.baseurl }}/assets/images/differences_data.png)
 
-##2 _Data Engineer_
+### 1 _Data Scientist_
 
-##3 _Data Analyst_
+### 2 _Data Engineer_
+
+### 3 _Data Analyst_
 
  If you have any question as of how awesome is it, feel free to contact me :)
 {: .notice}
