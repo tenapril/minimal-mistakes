@@ -6,9 +6,6 @@ tags:
   - Data Scientist
   - Data Engineer
   - Data Analyst
-header:
-  image: /assets/images/differences_data.png
-  caption: 
 ---
 
 
