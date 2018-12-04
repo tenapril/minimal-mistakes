@@ -1,11 +1,15 @@
 ---
-title: "Apa beda Data Scientist, Data Engineer, dan Data Analyst?"
+title: "Data Scientist, Data Engineer, dan Data Analyst apa bedanya?"
 date: 2018-11-25 09:00:00
-excerpt: "Apa beda Data Scientist, Data Engineer, dan Data Analyst?"
+excerpt: "Apa beda Data Scientist, Engineer, dan Analyst?"
 tags:
   - Data Scientist
   - Data Engineer
   - Data Analyst
+  - Beda
+  - Scientist
+  - Engineer
+  - Analyst
 ---
 Dalam bacaan kali ini, saya akan membahas bagaimana perbedaan dari 3 pekerjaan **terseksi** abad ini, yaitu Data Scientist, Data Engineer, dan Data Analyst.
 
